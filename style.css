@@ -1,0 +1,45 @@
+header {
+text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+nav li{
+  display: inline;
+}
+
+section nav li {
+  display: list-item;
+}
+
+section nav {
+  float: left;
+  width:20%;
+  overflow: hidden;
+  text-align: left;
+}
+
+section article {
+float: left;
+width: 80%;
+overflow: hidden;
+clear:right;
+}
+
+section article #one{
+  float:left;
+  width: 50%;
+}
+
+section article #two{
+  float:left;
+  width: 50%;
+  clear:right;
+}
+
+footer p
+{
+text-align: center;
+}
